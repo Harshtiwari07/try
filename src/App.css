@@ -50,10 +50,13 @@
 .content {
   display: flex;
   flex: 1;
-  padding: 1rem;
+  padding: 0rem;
 }
 
 .main-content {
   flex: 1;
-  padding: 1rem;
+  padding: 20px;
+ background-color:  rgb(213, 213, 213);  ;
 }
+
+
