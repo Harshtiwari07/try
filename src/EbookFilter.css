@@ -1,0 +1,30 @@
+.ebook-filter {
+    border: 1px solid #ddd;
+    padding: 1rem;
+    margin: 1rem;
+  }
+  
+  .search-inputs {
+    display: flex;
+    gap: 1rem;
+    margin-bottom: 1rem;
+  }
+  
+  .filter-button {
+    padding: 0.5rem 1rem;
+    background-color: #007bff;
+    color: white;
+    border: none;
+    cursor: pointer;
+  }
+  
+  .book-card {
+    border: 1px solid #ddd;
+    padding: 1rem;
+    margin-bottom: 1rem;
+  }
+  
+  .book-card h3 {
+    margin-top: 0;
+  }
+  
